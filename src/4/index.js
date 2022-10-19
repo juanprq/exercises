@@ -68,3 +68,8 @@ const usuarios = [
 // 6. imprimir un arreglo de strings cuyo valor sea el email de cada usuario
 //    el email de un usuario esta compuesto por la primera letra de su nombre, seguido de su apellido, seguido por '@empresa.com' y todo debe de estar en letras minuculas
 // 7. contar cuantos usuarios tienen el apellido 'Reynolds'
+// Nuevos ejercicios
+// 8. imprimir los usuarios que tengan unicamente mas de 18 anos
+// 9. crear un Objeto (o un Map) en el que la llave es el nombre, y el valor es la cantidad de usuarios con ese nombre
+// 10. Imprimir el usuario que mas edad tiene (y el menor)
+// 11. Imprimir el usuario que tiene el nombre + apellido mas largo
